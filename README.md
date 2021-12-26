@@ -1,6 +1,6 @@
 # Question Box
 
-Question Boxはdlopp専用の質問箱です。
+Question Boxはdlopp専用の質問箱です！
 
 ![screenshot](./static/screenshot.png)
 
