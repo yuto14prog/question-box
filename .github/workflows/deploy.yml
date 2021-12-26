@@ -53,9 +53,9 @@ jobs:
           git fetch upstream
 
           # Merge changes
-          git checkout master
-          git merge --no-edit upstream/master
-          git push origin master
+          git switch main
+          git merge --no-edit upstream/main
+          git push origin main
         # Change the below to your settings
         env:
           NAME: dlopp
