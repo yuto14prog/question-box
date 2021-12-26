@@ -9,7 +9,7 @@ name: deploy
 
 # Triggers the action as scheduled
 on:
-  [ workflow_dispatch ]:
+  workflow_dispatch:
   # Runs on 10 minutes past every hour（毎 n 時 10 分に実行）
   schedule:
     # Ref: 
