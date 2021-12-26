@@ -5,7 +5,7 @@
 #   - https://stackoverflow.com/a/61574295/12102603 by N1ngu @ StackOverflow (EN)
 #   - https://qiita.com/KEINOS/items/3bcaa6cea853f6b63475 by KEINOS @ Qiita (JA)
 
-name: Merge upstream branches
+name: deploy
 
 # Triggers the action as scheduled
 on:
